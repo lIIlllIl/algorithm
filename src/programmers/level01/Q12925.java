@@ -1,6 +1,6 @@
 package programmers.level01;
 
-public class parseInt {
+public class Q12925 {
 	public int solution(String s) {
 		// https://programmers.co.kr/learn/courses/30/lessons/12925
 		

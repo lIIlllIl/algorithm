@@ -2,7 +2,7 @@ package programmers.level01;
 
 import java.util.*;
 
-public class MokTest {
+public class Q42480 {
 	// https://programmers.co.kr/learn/courses/30/lessons/42840
 
     public int[] solution(int[] answers) {      

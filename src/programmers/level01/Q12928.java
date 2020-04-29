@@ -1,6 +1,6 @@
 package programmers.level01;
 
-public class sumDivisor {
+public class Q12928 {
 	// https://programmers.co.kr/learn/courses/30/lessons/12928
 		
 	  public int solution(int n) {
