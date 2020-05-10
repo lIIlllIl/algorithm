@@ -9,5 +9,5 @@ public class Q1133 {
         String s = sc.nextLine();
         
         System.out.println(s);
-    }
+    } 
 }

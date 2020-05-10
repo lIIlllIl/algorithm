@@ -13,6 +13,6 @@ public class Q1138 {
         }
         else {
             System.out.println(1);
-        }
+        } 
     }
 }

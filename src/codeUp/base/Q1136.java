@@ -14,6 +14,6 @@ public class Q1136 {
         }
         else {
             System.out.println(0);
-        }
+        } 
     }
 }
